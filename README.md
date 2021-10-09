@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning coding & new techonologies.
 - 👯 I’m looking to collaborate on all types of business startup. Specially techonology related. 
 - 🤔 I’m looking for help from best programmers.
-- 💬 Ask me about anything. 
+- 💬 Ask me about technologies. 
 - 📫 How to reach me: 
    hridoypaul@gmail.com
 - ⚡ Fun fact: Even the Joker is jealous of my smile😄.
