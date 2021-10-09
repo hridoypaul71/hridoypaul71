@@ -1,6 +1,6 @@
  Hi!! 👋 I'am Hridoy
  
- I am a student of Computer Science & Engeerning(CSE) at Leading University. I like problem solving & learn about new technology.
+ I am a student of Computer Science & Engeerning(CSE) in Leading University. I like problem solving & learn about new technology.
 
    About Me:-
 
