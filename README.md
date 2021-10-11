@@ -23,5 +23,10 @@ Skills: HTML / CSS/C/C++/JAVA Basic
 
 
 <h2> Connect with me </h2>
+<p align="left">
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hridoy-paul-4324b3218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' color='#3b5998'>](https://www.facebook.com/Hridoy.paul123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hridoypaul71/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HridoyPaul71)
+ <a herf = "https://www.linkedin.com/in/hridoy-paul-4324b3218"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/><a/>
+ <a herf = "https://twitter.com/HridoyPaul71?t=D2VRS1dZyZtLd4_0-aOuHw&s=08"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/><a/>
+ <a herf = "https://instagram.com/hridoypaul71"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a/>
+ <a herf = "https://web.facebook.com/Hridoy.paul123/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+
