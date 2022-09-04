@@ -2,7 +2,7 @@
 #### Student/Programmer
 I am a student of Computer Science & Engeerning(CSE) in Leading University. I like problem solving & learn about new technology.And I try to use them in real life.
 
-Skills: HTML / CSS/C/C++/JAVA Basic
+Skills: HTML / CSS/C/C++/OOP/Java
 
 
 - 🔭 I’m currently working on few Skills. Like problem solving, web development & projects etc.  
